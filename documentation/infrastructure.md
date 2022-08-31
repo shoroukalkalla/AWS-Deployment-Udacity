@@ -2,7 +2,7 @@
 
 # High-level overview of the infrastructure
 
-![high_level_overview](https://video.udacity-data.com/topher/2021/February/602c13dc_udagram-2/udagram-2.png)
+![high_level_overview](high_level_overview.jpg)
 
 ## What is AWS?
 
